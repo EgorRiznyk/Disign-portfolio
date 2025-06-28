@@ -90,7 +90,8 @@ body {
 
   transition-duration: 0.25s;
 }
-.nav-post p,a {
+.nav-post p,
+a {
   font-size: 22px;
 }
 .menu__item:hover {
@@ -174,17 +175,17 @@ body {
   padding-bottom: 60px;
 }
 @media (max-width: 730px) {
-  .panel-size{
+  .panel-size {
     display: none;
   }
-  .blog-text{
+  .blog-text {
     font-size: 30px;
   }
-  .container{
+  .container {
     padding-right: 20px;
     padding-left: 20px;
   }
-  .hamburger-menu{
+  .hamburger-menu {
     display: block;
   }
 }
