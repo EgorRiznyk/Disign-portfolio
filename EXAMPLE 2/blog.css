@@ -1,1 +1,40 @@
-
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.panel-nav {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.panel-size {
+  display: flex;
+  margin-right: 60px;
+  gap: 20px;
+  font-weight: 500;
+  font-size: 20px;
+}
+.panel-block {
+  display: flex;
+  justify-content: end;
+  width: 1100px;
+}
+.panel-block a {
+  text-decoration: none;
+  color: black;
+}
+.panel-block a:hover {
+  color: rgb(104, 104, 104);
+}
+.container {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.box-info h1{   
+    font-size: 44px;
+    font-weight: 700;
+}
