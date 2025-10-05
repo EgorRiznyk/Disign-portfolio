@@ -137,13 +137,12 @@ body {
 .section-text p {
   font-size: 16px;
 }
-button a {
-  text-decoration: none;
+.color-style{
   color: white;
+  text-decoration: none;
 }
-.section-text button {
+.section-text button  {
   background-color: #12713b;
-  color: #ffffff;
   font-size: 20px;
   border-radius: 2px;
   width: 208px;
@@ -151,6 +150,7 @@ button a {
   cursor: pointer;
   border: none;
 }
+
 .box-img img {
   object-fit: cover;
   width: 243px;
