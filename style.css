@@ -137,8 +137,12 @@ body {
 .section-text p {
   font-size: 16px;
 }
+button a {
+  text-decoration: none;
+  color: white;
+}
 .section-text button {
-  background-color: #ff6464;
+  background-color: #12713b;
   color: #ffffff;
   font-size: 20px;
   border-radius: 2px;
