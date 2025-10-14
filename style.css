@@ -2,7 +2,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  
+  background-image: url(image/watermarked_preview\ \(video-converter.com\).gif );
+  background-repeat: no-repeat;
+}
+#typing-text {
+  padding: 30px;
 }
 .hamburger-menu {
   display: none;
